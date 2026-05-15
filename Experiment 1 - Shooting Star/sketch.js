@@ -4,7 +4,7 @@ let baseAngle = 0;
 let ang1 = 0, ang2 = 0;
 
 function setup() {
-  createCanvas(windowWidth, windowHeight);
+  createCanvas(800, 800);
 }
 
 function keyPressed() {
